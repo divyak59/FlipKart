@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Flipkart.Controllers
 {
-    public class TestingController : Controller
+    public class DairyMilkController : Controller
     {
         public IActionResult Index()
         {
